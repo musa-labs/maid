@@ -1,5 +1,3 @@
-# Maid
-
 # Maid - AI-powered Directory Cleaner
 
 Maid is an AI-driven agent, built using the Mastra framework, designed to clean specific directories on your filesystem.
