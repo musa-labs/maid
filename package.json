@@ -1,7 +1,7 @@
 {
-  "name": "gmail",
+  "name": "maid",
   "version": "1.0.0",
-  "description": "",
+  "description": "AI agent that cleans your downloads or w/e folder you choose",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

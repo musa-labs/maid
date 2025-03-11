@@ -6,10 +6,10 @@ import {MastraMCPClient} from "@mastra/mcp";
 const filesystem = new MastraMCPClient({
     name: "file system",
     server: {
-        command : "/Users/bear/.nvm/versions/node/v20.9.0/bin/npx",
+        command : "/Users/<User>/.nvm/versions/node/v20.9.0/bin/npx",
         args : ["-y",
             "@modelcontextprotocol/server-filesystem",
-            "/Users/bear/Documents"
+            "<Your Document folder here>"
         ],
     },
 });
